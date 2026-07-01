@@ -9,5 +9,4 @@ import { Hello } from './hello/hello';
   styleUrl: './app.css'
 })
 export class App {
-
 }
